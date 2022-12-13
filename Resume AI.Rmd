@@ -1,0 +1,110 @@
+---
+title: "Arie Itzhacki"
+author: "Arie Itzhacki"
+date: "`r Sys.Date()`"
+geometry: "left=1cm,right=1cm,top=1cm,bottom=1cm"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>arie1308@gmail.com
+- <i class="fa fa-github"></i> [github.com/Grit18/](https://github.com/Grit18/)
+- <i class="fa fa-phone"></i> +1 000-000-000
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Python
+- R Studio
+- SQL
+- Tableau
+- Power BI
+- MS Project
+- Agile Professional
+
+
+
+Main
+================================================================================
+
+Arie Itzhacki {#title}
+--------------------------------------------------------------------------------
+
+### Boston, United States
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Data Analysis
+
+Medford, MA
+
+2022--Current
+
+
+### Tel Aviv University
+
+Master in Business Administration
+<br>
+Minors in Leadership
+
+Tel Aviv
+
+Graduated 2021
+
+
+Work Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Business Analyst
+
+BDO Corporate Strategy Consulting
+
+Tel Aviv
+
+January 2021 – March 2021
+
+- Converted stakeholder requirements into Agile-compliant stories, workflow diagrams, and data flow/data model diagrams.
+- Executed risk evaluations related to requirements implementation, testing processes, project communications, and training.
+- Employing corrective measures, based on said findings, saved the company +$5K USD annually.
+
+
+Awards {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Research Thesis
+
+Guest Speaker
+
+Costa Rica
+
+2019
+
+<!--::: concise-->
+- Presented research thesis in Costa Rica’s Presidential House to government officials.
+<!--:::-->
+
+
+<!-- Interests {data-icon=comment-alt} -->
+<!-- -------------------------------------------------------------------------------- -->
+<!-- ### Interests -->
+<!-- Historical non-fiction literature, cryptography, mountain biking, golf, photography, and classical piano.  -->
+
+<!-- Medford, MA -->
+
+<!-- December 2022 -->
+
